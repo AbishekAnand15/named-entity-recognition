@@ -134,6 +134,8 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 ## OUTPUT:
 ### TRAINING LOSS, VALIDATION LOSS VS ITERATION PLOT:
 ![Screenshot 2024-05-07 111716](https://github.com/AbishekAnand15/named-entity-recognition/assets/118706942/1e1755ed-ced5-4107-a13d-fccbef329e9a)
+
+
 ![Screenshot 2024-05-07 111617](https://github.com/AbishekAnand15/named-entity-recognition/assets/118706942/d0c7f1b0-e45d-4942-a682-f2c4178d09e0)
 
 ### SAMPLE TEXT PREDICTION:
